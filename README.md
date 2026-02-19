@@ -61,7 +61,7 @@ Diwali-Sales-Analysis/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/diwali-sales-analysis.git
+   git clone https://github.com/kunalkhapre0/diwali-sales-analysis.git
    ```
 2. Navigate to the project directory:
 
